@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\USER\Desktop\2171335 박시현\finaltermp\finaltermp\소스.c(239,30): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\2171335 박시현\finaltermp\finaltermp\소스.c(431,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  finaltermp.vcxproj -> C:\Users\USER\Desktop\2171335 박시현\finaltermp\Debug\finaltermp.exe
