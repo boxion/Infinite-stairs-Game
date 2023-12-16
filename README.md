@@ -1,4 +1,4 @@
-# PL_infinitestair
+![Infinite-stairs-Game](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header)
 
 2022-1 프로그래밍랩 기말 대체 개인 텀프로젝트
 
@@ -8,4 +8,4 @@
 ![image](https://github.com/boxion/Infinite-stairs-Game/assets/93407332/3a737d58-7c3f-458a-96fa-e1008bca5c16)
 
 
-
+![Infinite-stairs-Game](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer)
