@@ -1,4 +1,4 @@
-![Infinite-stairs-Game](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header)
+![Infinite-stairs-Game](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Infinite-stairs-Game)
 
 2022-1 프로그래밍랩 기말 대체 개인 텀프로젝트
 
